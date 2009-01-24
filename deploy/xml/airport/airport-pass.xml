@@ -1,0 +1,14 @@
+<xWindow>
+	<appname>airport</appname>
+	<image>va-air-start.jpg</image>
+	
+	
+	<button>
+		<x>303</x>
+		<y>500</y>
+		<height>25</height>
+		<width>120</width>
+		<clickaction type="addwindow">airport-summary</clickaction>
+	</button>
+			
+</xWindow>

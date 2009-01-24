@@ -1,0 +1,20 @@
+<settings>
+	<debug>no</debug>
+	<dlevel>2</dlevel>
+	<topbar>menubg.png</topbar>
+	<open>spotlight</open>
+	<open>timeairportspotlight</open>
+	<open>dock</open>
+	<swf>Main</swf>
+	<menu>finder</menu>
+	<showborders>yes</showborders>
+	<addshadows>yes</addshadows>
+	<dragdepth>70</dragdepth>
+	<singlewindowmode>yes</singlewindowmode>
+	<close>
+		<x>47</x>
+		<y>28</y>
+		<height>16</height>
+		<width>16</width>
+	</close>	
+</settings>

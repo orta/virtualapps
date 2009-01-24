@@ -1,0 +1,31 @@
+<xWindow>
+	<appname>airport</appname>
+	<image>va-airport-wizard-02.jpg</image>
+	
+	
+	<button>
+		<x>225</x>
+		<y>484</y>
+		<height>25</height>
+		<width>140</width>
+		<clickaction type="changewindow">airport-summary</clickaction>
+	</button>
+	
+	<button>
+		<x>590</x>
+		<y>484</y>
+		<height>25</height>
+		<width>90</width>
+		<clickaction type="changewindow">airport-wizard1</clickaction>
+	</button>
+
+	
+	<button>
+		<x>690</x>
+		<y>484</y>
+		<height>25</height>
+		<width>90</width>
+		<clickaction type="changewindow">airport-wizard3</clickaction>
+	</button>
+			
+</xWindow>

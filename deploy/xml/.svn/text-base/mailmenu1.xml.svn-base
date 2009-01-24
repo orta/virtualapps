@@ -1,0 +1,13 @@
+<xWindow>
+<appname>mail</appname>
+
+	<xoffset>-16</xoffset>
+	<yoffset>-4</yoffset>
+	<button>
+		<x>18</x>
+		<y>40</y>
+		<width>210</width>
+		<height>22</height>
+		<clickaction type="openwindow">mailprefs1</clickaction>
+	</button>
+</xWindow>

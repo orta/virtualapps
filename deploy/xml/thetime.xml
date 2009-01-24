@@ -1,0 +1,12 @@
+<xWindow>
+	<appname>finder</appname>
+	<stick>TR</stick>
+	<nodrag>yes</nodrag>
+	<button>
+		<x>0</x>
+		<y>0</y>
+		<width>52</width>
+		<height>22</height>
+		<clickaction type="submenu">submenu</clickaction> 
+	</button>
+</xWindow>

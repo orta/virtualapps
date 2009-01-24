@@ -1,0 +1,26 @@
+<xWindow>
+	<appname>mail</appname>
+	<button>
+		<x>44</x>
+		<y>44</y>
+		<width>50</width>
+		<height>58</height>
+		<clickaction type="changewindow">mailprefs1</clickaction>
+	</button>
+	<button>
+		<x>100</x>
+		<clickaction type="changewindow">mailprefs2</clickaction>
+	</button>
+	<button>
+		<x>200</x>
+		<clickaction type="changewindow">mailprefs3</clickaction>
+	</button>
+	<button>
+		<x>378</x>
+		<y>400</y>
+		<width>180</width>
+		<height>18</height>
+		<clickaction type="submenu">mailprefs6</clickaction>
+	</button>
+	
+</xWindow>

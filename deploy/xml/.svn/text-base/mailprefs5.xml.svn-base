@@ -1,0 +1,19 @@
+<xWindow>
+	<appname>mail</appname>
+		<yoffset>0</yoffset> // has titlebar
+	<button>
+		<x>180</x>
+		<y>200</y>
+		<width>160</width>
+		<height>20</height>
+		<clickaction type="changewindow">mailprefs5</clickaction>
+	</button>
+
+	<button>
+		<x>300</x>
+		<y>400</y>
+		<width>160</width>
+		<height>26</height>
+		<clickaction type="closewindow">this</clickaction>
+	</button>
+</xWindow>

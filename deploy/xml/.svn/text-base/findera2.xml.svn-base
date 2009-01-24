@@ -1,0 +1,25 @@
+<xWindow>
+	<appname>finder</appname>
+	<button>
+		<x>625</x>
+		<y>100</y>
+		<width>35</width>
+		<height>35</height>
+		<clickaction type="changewindow">findera1</clickaction>
+	</button>
+	<button>
+		<y>395</y>
+		<clickaction type="changewindow">findera3</clickaction>
+	</button>
+	<button>
+		<x>40</x>
+		<y>210</y>
+		<width>130</width>
+		<height>22</height>
+		<clickaction type="changewindow">findera1</clickaction>
+	</button>
+	<button>
+		<y>188</y>
+		<clickaction type="changewindow">finder1</clickaction>
+	</button>
+</xWindow>

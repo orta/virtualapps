@@ -1,0 +1,41 @@
+<xWindow>
+	<appname>airport</appname>
+	<image>va-air-13.jpg</image>
+		
+	<button>
+		<x>7</x>
+		<y>4</y>
+		<height>14</height>
+		<width>14</width>
+		<clickaction type="changewindow">airport-close</clickaction>
+	</button>
+	<button>
+		<x>4</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-summary</clickaction>
+	</button>
+	<button>
+		<x>54</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-internet</clickaction>
+	</button>
+	<button>
+		<x>106</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-printer</clickaction>
+	</button>
+	<button>
+		<x>160</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-advanced</clickaction>
+	</button>
+	
+</xWindow>

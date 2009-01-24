@@ -1,0 +1,14 @@
+<xWindow>
+	<appname></appname>
+	<nodrag>yes</nodrag>
+	<stick>TR</stick>
+	<button>
+		<x>33</x>
+		<y>0</y>
+		<width>26</width>
+		<height>22</height>
+		<clickaction type="submenu">airportsubmenu</clickaction>
+	</button>
+</xWindow>
+
+

@@ -1,0 +1,28 @@
+<xWindow>
+	<nodrag>yes</nodrag>
+	<button>
+		<x>8</x>
+		<y>0</y>
+		<width>34</width>
+		<height>18</height>
+		<clickaction type="submenu">applemenu</clickaction>
+	</button>
+	<button>
+		<x>50</x>
+		<width>50</width>
+		<height>20</height> // mail
+		<clickaction type="submenu">mailmenu1</clickaction>
+	</button>
+	<button>
+		<x>100</x>
+		<width>40</width>
+		<height>20</height> // file
+		<clickaction type="submenu">mailmenu2</clickaction>
+	</button>
+	<button>
+		<x>230</x>
+		<width>70</width>
+		<height>20</height> //mailbox
+		<clickaction type="submenu">mailmenu3</clickaction>
+	</button>
+</xWindow>

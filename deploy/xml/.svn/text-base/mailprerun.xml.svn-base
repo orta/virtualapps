@@ -1,0 +1,14 @@
+<xWindow>
+	<appname>mail</appname>
+	<button>
+		<x>266</x>
+		<y>56</y>
+		<width>110</width>
+		<height>18</height>
+		<clickaction type="changewindow">mailwizard1</clickaction>
+	</button>
+	<button>
+		<y>88</y>
+		<clickaction type="changewindow">mail1</clickaction>
+	</button>
+</xWindow>

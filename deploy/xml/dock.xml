@@ -1,0 +1,7 @@
+<dock>
+  <app name="finder">finder1</app>
+  <app name="safari">safari1</app>
+  <app name="addressbook">finder1</app>
+  <app name="mail">mailprerun</app>
+  <app name="system_preferences">syspref1</app>
+</dock>

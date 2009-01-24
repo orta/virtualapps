@@ -1,0 +1,37 @@
+<xWindow>
+	<appname>safari</appname>
+		<button>
+			<x>60</x>
+			<y>112</y>
+			<height>26</height>
+			<width>108</width>
+			<clickaction type="changewindow">start</clickaction> 
+		</button> 
+
+		<button>
+			<x>178</x>
+			<clickaction type="openwindow">start</clickaction> 
+		</button>
+		
+		<button>
+			<x>294</x>
+			<clickaction type="submenu">start</clickaction> 
+		</button>		
+	
+		<button>
+			<y>145</y>
+			<x>60</x>
+			<clickaction type="contextmenu">start</clickaction> 
+		</button>
+		
+		<button>
+			<x>178</x>
+			<clickaction type="closewindow">this</clickaction> 
+		</button>
+		
+		<button>
+			<x>294</x>
+			<clickaction type="changeparent">submenu</clickaction> 
+		</button>
+						
+	</xWindow>

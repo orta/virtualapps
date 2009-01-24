@@ -1,0 +1,41 @@
+8
+
+dir
+2
+http://svn.assembla.com/svn/virtualapps/trunk/src/visor/lt/uza/events
+http://svn.assembla.com/svn/virtualapps
+
+
+
+2008-06-17T16:19:48.904242Z
+2
+orta
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fbf1ad31-3caa-4afa-b5b4-094426959cba
+
+GlobalEvent.as
+file
+
+
+
+
+2008-07-08T10:51:06.000000Z
+ecca1c5fd8e060bdca98d24e16b558e1
+2008-06-17T16:19:48.904242Z
+2
+orta
+has-props
+

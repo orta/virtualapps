@@ -1,0 +1,26 @@
+Dock:
+- [NEW] Dock
+- dock always shows
+- items get fucked up
+- tweak how many pixels looks perfect
+- runtime error on last item
+
+TaskBar:
+- [NEW] TaskBar
+
+SWF:
+- Titlebar needs a name
+- needs close button
+- needs the center
+
+Visor:
+- needs to work
+- remove the hide in mac toolbar look... :P
+
+Blur:
+- needs testing
+
+
+- [BUG] submenu / panels bug?
+- [FIX] centering 1st window of app
+- blur needs work...

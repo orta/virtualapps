@@ -1,0 +1,24 @@
+<xWindow>
+	<nodrag>yes</nodrag>
+	<xoffset>-14</xoffset>
+	<yoffset>-3</yoffset>
+	<button>
+		<x>17</x>
+		<y>10</y>
+		<width>200</width>
+		<height>18</height>
+		<clickaction type="openwindow">aboutthismac</clickaction>
+	</button>
+	
+	<button>
+		<y>78</y>
+		<clickaction type="openwindow">syspref</clickaction>
+	</button>
+	
+	<button>
+		<y>230</y>
+		<clickaction type="href">http://va.zensupport.co.uk</clickaction>
+	</button>
+	
+	
+</xWindow>

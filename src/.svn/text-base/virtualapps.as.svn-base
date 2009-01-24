@@ -1,0 +1,35 @@
+package {
+	
+	import flash.events.Event;
+	import flash.display.Sprite;
+	
+	/**
+	 *	Main Class for Project. Only used if compiled through TM's 
+	 *  getting better bundle for AS3 (man I would love to know how to make it rock) 
+	 *
+	 *	@langversion ActionScript 3.0
+	 *	@playerversion Flash 9.0
+	 *
+	 *	@author orta
+	 *	@since 22.05.2008
+	 */	
+	public class virtualapps extends OS {
+		//The [SWF] metadata tag can only be used in the main class of your project, after inital import statements.
+    [SWF(width='800', height='600', backgroundColor='#889981', frameRate='60')]
+
+    
+		public function virtualapps(){
+		  trace("hi");
+			super();      
+      stage.addEventListener( Event.RESIZE, initialise );
+		}
+		
+		private function initialise( event:Event ) : void
+		{			
+			stage.removeEventListener( Event.RESIZE, initialise );
+			trace("bye");
+		}
+		
+	}
+	
+}

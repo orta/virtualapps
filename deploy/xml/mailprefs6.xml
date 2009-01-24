@@ -1,0 +1,10 @@
+<xWindow>
+    <appname>mail</appname>
+    <button>
+        <x>20</x>
+        <y>60</y>
+        <width>176</width>
+        <height>24</height>
+		<clickaction type="openpanel">mailprefs4</clickaction>
+	</button>
+</xWindow>

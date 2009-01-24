@@ -1,0 +1,9 @@
+<xWindow>
+	<button>
+		<x>6</x>
+		<y>0</y>
+		<width>26</width>
+		<height>22</height>
+		<clickaction type="submenu">airport2</clickaction>
+	</button>
+</xWindow>

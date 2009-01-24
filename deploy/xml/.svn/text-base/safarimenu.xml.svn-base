@@ -1,0 +1,11 @@
+<xWindow>
+	<appname>safari</appname>
+	<nodrag>yes</nodrag>
+	<button>
+		<x>8</x>
+		<y>0</y>
+		<width>34</width>
+		<height>18</height>
+		<clickaction type="submenu">applemenu</clickaction>
+	</button>
+</xWindow>

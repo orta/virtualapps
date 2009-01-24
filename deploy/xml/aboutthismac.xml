@@ -1,0 +1,18 @@
+<xWindow>
+	<defaultclose>no</defaultclose>
+	<centered>yes</centered>
+	<button>
+		<x>8</x>
+		<y>2</y>
+		<width>16</width>
+		<height>16</height>
+		<clickaction type="closewindow">this</clickaction>
+	</button>
+	<button>
+		<x>60</x>
+		<y>225</y>
+		<width>200</width>
+		<height>22</height>
+		<clickaction type="href">mailto:b.d.maslen@googlemail.com</clickaction>
+	</button>
+</xWindow>

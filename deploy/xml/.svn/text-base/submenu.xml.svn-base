@@ -1,0 +1,10 @@
+<xWindow>
+	<appname>finder</appname>		
+	<button>
+			<x>0</x>
+			<y>0</y>
+			<height>35</height>
+			<width>39</width>
+			<clickaction type="openwindow">start</clickaction> 
+	</button> 
+</xWindow>

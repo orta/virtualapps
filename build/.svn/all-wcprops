@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/virtualapps/!svn/ver/1/trunk/build
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/virtualapps/!svn/ver/1/trunk/build/compile.sh
+END
+asdoc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/virtualapps/!svn/ver/1/trunk/build/asdoc.sh
+END
+virtualapps-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/virtualapps/!svn/ver/1/trunk/build/virtualapps-config.xml
+END

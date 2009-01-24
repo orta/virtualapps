@@ -1,0 +1,22 @@
+<xWindow>
+	<nodrag>yes</nodrag>
+	<stick>CENTER</stick>
+	<button>
+		<x>18</x>
+		<y>15</y>
+		<width>38</width>
+		<height>34</height>
+		<clickaction type="openwindow">finder1</clickaction>
+	</button>
+	<button>
+		<x>60</x>
+		<y>15</y>
+		<width>38</width>
+		<height>34</height>
+		<clickaction type="openwindow">mailprerun</clickaction>
+	</button>	
+	<button>
+		<x>105</x>
+		<clickaction type="openwindow">safari1</clickaction>
+	</button>
+</xWindow>
