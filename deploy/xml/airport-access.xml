@@ -1,0 +1,82 @@
+<xWindow>
+	<appname>airport_express</appname>
+	<image>va-air-10.jpg</image>
+	<needsshadow>yes</needsshadow>
+	<button>
+		<x>7</x>
+		<y>4</y>
+		<height>14</height>
+		<width>14</width>
+		<clickaction type="changewindow">airport-close</clickaction>
+	</button>
+	
+	<button>
+		<x>4</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-summary</clickaction>
+	</button>
+	<button>
+		<x>54</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-internet</clickaction>
+	</button>
+	<button>
+		<x>106</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-printer</clickaction>
+	</button>
+	<button>
+		<x>160</x>
+		<y>22</y>
+		<height>48</height>
+		<width>48</width>
+		<clickaction type="changewindow">airport-advanced</clickaction>
+	</button>
+	
+	<button>
+		<x>72</x>
+		<y>90</y>
+		<height>21</height>
+		<width>87</width>
+		<clickaction type="changewindow">airport-summary</clickaction>
+	</button>
+
+	<button>
+		<x>159</x>
+		<y>90</y>
+		<height>21</height>
+		<width>100</width>
+		<clickaction type="changewindow">airport-base</clickaction>
+	</button>
+
+	<button>
+		<x>259</x>
+		<y>90</y>
+		<height>21</height>
+		<width>70</width>
+		<clickaction type="changewindow">airport-wireless</clickaction>
+	</button>
+
+	<button>
+		<x>329</x>
+		<y>90</y>
+		<height>21</height>
+		<width>50</width>
+		<clickaction type="changewindow">airport-wds</clickaction>
+	</button>
+
+	<button>
+		<x>379</x>
+		<y>90</y>
+		<height>21</height>
+		<width>120</width>
+		<clickaction type="changewindow">airport-access</clickaction>
+	</button>
+		
+</xWindow>

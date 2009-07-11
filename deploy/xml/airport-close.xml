@@ -1,0 +1,14 @@
+<xWindow>
+	<appname>airport_utility</appname>	
+<image>va-air-closeupdate.jpg</image>
+	<needsshadow>yes</needsshadow>
+	
+	<button>
+		<x>158</x>
+		<y>168</y>
+		<height>24</height>
+		<width>346</width>
+		<clickaction type="changewindow">airport-start</clickaction>
+	</button>
+			
+</xWindow>

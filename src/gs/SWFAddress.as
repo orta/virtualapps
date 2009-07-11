@@ -98,7 +98,6 @@ package gs {
         }
 
         private static function _setValue(value:String):void {     
-          trace("setting value")   
             if (value == 'undefined' || value == null) value = '';
             if (SWFAddress._value == value && SWFAddress._init) return;
             SWFAddress._value = value;

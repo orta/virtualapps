@@ -1,11 +1,10 @@
 <settings>
-	<dlevel>2</dlevel>
+	<dlevel>0</dlevel>
 	<topbar>menubg.png</topbar>
 	<open>spotlight</open>
 	<open>timeairportspotlight</open>
-	
   <!-- <open>dock</open> -->
-  <swf>Main</swf>
+  <!-- <swf>Main</swf> -->
 	<menu>finder</menu>
 	<dragdepth>70</dragdepth>
 	<close>
